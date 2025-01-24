@@ -1,4 +1,4 @@
-# Open
+# Coding Data
 AnteData compiles unique data about IT companies. This information gives an advantage over other market participants and drives profitable trading strategies. We observe and measure the digital footprints of software buyers and their coding activity on different web-platforms: Jobs, Searches, Repositories, Q&A, Apps. 
 
 You can subscribe to our data and integrate it into your financial models.
