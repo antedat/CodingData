@@ -14,7 +14,8 @@ You can subscribe to our data and integrate it into your financial models.
 |ActChng |	Change in Activity, standardized (normal distributed) | -0.03|
 |TrendRank |	Trend of Activity, ranked against universe (0-100%) | 84%|
 
-For a detailed explanation of the data fields, please read the technical description in the /docs folder
+For a detailed explanation of the data fields, please read the technical description:
+https://github.com/antedat/CodingData/blob/main/docs/Technical%20Documentation.pdf
 
 # Delivery of Data
 
