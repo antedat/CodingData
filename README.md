@@ -7,8 +7,9 @@ You can subscribe to our data and integrate it into your financial models.
 
 |Field | Details	| Example|
 |---|---|---|
-|Date | Release Date weekly on Mondays | 2025-01-20|
-|Ticker | Ticker or ISIN | HUBS|
+|date | Release Date weekly on Mondays | 2025-01-20|
+|ticker | Ticker | HUBS|
+|BBticker | Bloomberg Ticker | HUBS|
 |Source | For Example Jobs, Repo, etc. or Aggregate | Jobs|
 |RawCount | Raw Count of Observations | 24|
 |ActChng |	Change in Activity, standardized (normal distributed) | -0.03|
