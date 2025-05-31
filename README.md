@@ -5,7 +5,7 @@ You can subscribe to our data and integrate it into your financial models.
 
 # Technical Documentation
 
-Please find the description about our Data in the Technical Documentation:
+**Please find the description about our Data in the Technical Documentation:**
 
 https://github.com/antedat/CodingData/blob/main/Technical%20Documentation%20y.pdf
 
