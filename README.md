@@ -22,7 +22,7 @@ To test our full data sample, please sign a standard data test license with us: 
 # Integration of Data – Creating Timeseries 
 
 loading and transforming the data to timeseries:
-the files integrate.R and integrate.py contains simple examples 
+the files integrate.R and integrate.ipynb contains simple examples 
 
 # Contact
 If you have technical questions, please don’t hesitate to contact:
