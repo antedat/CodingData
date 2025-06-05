@@ -16,4 +16,4 @@ df = df.pivot(index='date', columns='ticker', values='TrendRank')
 df.index = pd.to_datetime(df.index)
 
 # Display first few rows
-df.head()
+print(df.head())
